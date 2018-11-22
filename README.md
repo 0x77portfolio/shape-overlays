@@ -1,12 +1,6 @@
 # Shape Overlays
 
 Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.
-
-
-[Article on Codrops](https://tympanus.net/codrops/?p=32699)
-
-[Demo](http://tympanus.net/Development/ShapeOverlays/)
-
 ## Credits
 - [Misha Marinenko](http://marinenko.rf.gd)
 - [glsl-easings](https://github.com/glslify/glsl-easings) by glslify.
